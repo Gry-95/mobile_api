@@ -1,0 +1,18 @@
+[
+  {
+    "model": "api.Worker",
+    "pk": 1,
+    "fields": {
+      "name": "Иванов Иван",
+      "phone_number": "+1234567890"
+    }
+  },
+  {
+    "model": "api.Worker",
+    "pk": 2,
+    "fields": {
+      "name": "Петров Петр",
+      "phone_number": "+9876543210"
+    }
+  }
+]

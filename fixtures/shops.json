@@ -1,0 +1,18 @@
+[
+  {
+    "model": "api.Shop",
+    "pk": 1,
+    "fields": {
+      "name": "Магнит",
+      "worker": 1
+    }
+  },
+  {
+    "model": "api.Shop",
+    "pk": 2,
+    "fields": {
+      "name": "Пятерочка",
+      "worker": 2
+    }
+  }
+]
